@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Events</string>
+    <string name="welcome">Welcome</string>
+    <string name="event">Event</string>
+    <string name="calendar_event_in_android">Calendar Event In Android</string>
+    <string name="calendar_event_i">Click the button to add calender evnts</string>
+    <string name="add_event">Add Event</string>
+    <string name="calender_evnets_app">Calender Evnets App</string>
+</resources>
